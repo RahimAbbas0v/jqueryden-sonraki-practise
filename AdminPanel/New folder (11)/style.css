@@ -1,0 +1,28 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    display: flex;
+}
+.right{
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+#search{
+    padding-top: 1%;
+    padding-bottom: 54%;
+    padding-left: 70%;
+}
+.container{
+    position: absolute;
+    margin-top: -49%;
+}
+table{
+    width: 20rem;
+    
+}
+
+.view{
+    width: 10rem;
+}
